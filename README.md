@@ -9,26 +9,26 @@ Players can choose to summon minions, cast spells, play rituals or enchant allie
 
 ## **Minions**
 Minions can be summoned on the board and have the ability to attack players and enemy minions alike.
-![minions](images/minions.jpg)
+![minions](Images/minions.JPG)
 &nbsp;
 
 ## **Enchantments**
 Enchantments can be used to apply a buff or debuff on a minion.
-![enchantments](images/enchantments.jpg)
+![enchantments](Images/enchantments.JPG)
 &nbsp;
 
 ## **Spells**
 Spells can be casted at any card on the board. 
-![spells](images/spells.jpg)
+![spells](Images/spells.JPG)
 &nbsp;
 
 ## **Rituals**
 Rituals can be played only once at a time for each player and contains trigger effects whenever an event occurs.
-![rituals](images/rituals.jpg)
+![rituals](Images/rituals.JPG)
 &nbsp;
 
 # **Demo** 
-![gameplay1](images/gameplay1.jpg)
+![gameplay1](Images/gameplay1.JPG)
 &nbsp;
 
 # **Source Code**
