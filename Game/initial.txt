@@ -1,0 +1,5 @@
+help
+hand
+inspect 1
+inspect 
+3
